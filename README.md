@@ -1,4 +1,9 @@
 # 👋 ¡Hola! Soy Alexandro
+![CS50](https://img.shields.io/badge/CS50x-In_Progress-blue?logo=harvard)
+![C](https://img.shields.io/badge/C-Learning-00599C?logo=c)
+![GitHub](https://img.shields.io/badge/GitHub-Active-black?logo=github)
+![Full Stack](https://img.shields.io/badge/Full_Stack-In_Training-orange)
+
 
 🎓 Estudiante de Ingeniería Informática | CS50x en progreso  
 🚀 Futuro Full Stack Developer especializado en IA y Automatización  
